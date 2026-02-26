@@ -12,3 +12,5 @@ This is a Deep Learning project that predicts handwritten digits using the MNIST
 
 ## ⚙️ How to Run
 1. Install requirements:
+
+![Digit Predictor](screenshot.png)
