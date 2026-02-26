@@ -11,6 +11,11 @@ This is a Deep Learning project that predicts handwritten digits using the MNIST
 - VS Code
 
 ## ⚙️ How to Run
-1. Install requirements:
+pip install -r requirements.txt
+python model.py
+python app.py
+
+## Example Output
+Model predicts handwritten digit correctly
 
 ![Digit Predictor](screenshot.png)
